@@ -1,5 +1,5 @@
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Alternative (alt) text**</span> is a description of an image and is important in accessible web design to describe images to people who are unable to see them. The text does not appear on the webpage, but it is read aloud by screen readers.
+<span style="color: #0faeb0">**Alternative (alt) text**</span> is a description of an image. Alt text is an important part of accessible web design as it describes images to people who are unable to seem them. The text does not appear on the webpage, but it is read aloud by screen readers.
 </p>
   
 Add the alt property to provide alternative text for people who cannot view the image.
