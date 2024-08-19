@@ -1,8 +1,8 @@
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Alternative (alt) text**</span> is a description of an image. Alt text is an important part of accessible web design as it describes images to people who are unable to seem them. The text does not appear on the webpage, but it is read aloud by screen readers.
+<span style="color: #0faeb0">**Alternatieve (alt) tekst**</span> is een beschrijving van een afbeelding. Alt-tekst is een belangrijk onderdeel van toegankelijk webontwerp, omdat het afbeeldingen beschrijft voor mensen die ze niet kunnen zien. De tekst verschijnt niet op de webpagina, maar wordt hardop door schermlezers voorgelezen.
 </p>
 
-Add the alt property to provide alternative text for people who cannot view the image.
+Voeg de `alt`-eigenschap toe om alternatieve tekst te bieden voor mensen die de afbeelding niet kunnen bekijken.
 
 ## --- code ---
 
@@ -15,4 +15,4 @@ line_numbers: false
 
 \--- /code ---
 
-![An inflatable globe floating on water at night.](images/globe.png)
+![Een opblaasbare wereldbol die 's nachts op het water drijft.](images/globe.png)
