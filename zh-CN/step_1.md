@@ -1,8 +1,8 @@
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Alternative (alt) text**</span> is a description of an image. Alt text is an important part of accessible web design as it describes images to people who are unable to seem them. The text does not appear on the webpage, but it is read aloud by screen readers.
+<span style="color: #0faeb0">**替代（alt）文本**</span> 是对图像的描述。 Alt 文本是可访问网页设计的重要组成部分，因为它可以向无法看到图像的人描述图像。 文本不会出现在网页上，但会由屏幕阅读器大声读出来。
 </p>
 
-Add the alt property to provide alternative text for people who cannot view the image.
+添加 alt 属性，为无法查看图像的人提供替代文本。
 
 ## --- code ---
 
@@ -15,4 +15,4 @@ line_numbers: false
 
 \--- /code ---
 
-![An inflatable globe floating on water at night.](images/globe.png)
+![夜间漂浮在水面上的充气地球仪。](images/globe.png)
